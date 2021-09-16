@@ -1,0 +1,18 @@
+BACKEND ROADMAP
+
+
+Basic Internet, Operating System
+Frontend Knowledge (HTML,CSS,JAVASCRIPT)
+LANGUAGES AVAILABLE FOR BACKEND: Javascript, C#, Python, Ruby and PHP
+Version control systems: Git,Github,Gitlab,Bitbucket
+DATABASES:
+        SQL BASED:
+        PostgreSQL,MySQL,Oracle
+        NON-SQL BASED:
+        MongoDB,RethinkDB,DynamoDB,CouchDB,GraphQL
+APIs: REST,JSON,SOAP,GSON
+Caching:CDN,server-side,client-side
+Testing: Integration,Unit,Functional
+Code Analysis:Jenkins,Sonar etc....
+Webhooks, Websockets
+        
